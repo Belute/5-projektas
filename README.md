@@ -4,7 +4,7 @@
 
 This project is for **educational** porpuses only. 
 
-Site published at: https://belute.github.io/Smoothies_html_css/
+Site published at: https://belute.github.io/Sign_Up_html_css/
 
 
 ## Project features
