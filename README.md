@@ -1,5 +1,5 @@
 
-# Smoothies
+# Sign up
 
 
 This project is for **educational** porpuses only. 
@@ -9,10 +9,14 @@ Site published at: https://belute.github.io/Smoothies_html_css/
 
 ## Project features
 
--   responsive design
--   Github pages
--   FontAwesome icons
--   CSS flex
+
+    Github pages
+    multi-page (sign up, sign in, forgot password)
+    desktop only
+    absolute center
+    css blur
+    form
+
 
 ## Authors
 
