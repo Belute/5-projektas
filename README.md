@@ -21,3 +21,17 @@ Site published at: https://belute.github.io/Sign_Up_html_css/
 ## Authors
 
 Justinas: [Github](https://github.com/belute)
+
+
+## Code sample
+
+```
+<div class="form-row">
+                    <label for="re-pass">Repeat Password</label>
+                    <input id="re-pass" type="password" placeholder="Repeat password..." required>
+                </div>
+                <div class="form-row">
+                    <button class="btn" type="submit">Register now</button>
+                    <span>or</span>
+                    <a href="../login/">Sign in</a>
+```
